@@ -16,4 +16,4 @@ We thank the original authors for their foundational work.
 
 
 Contact
-For any questions prior to the full code release, please contact the corresponding author at [weixin.liu@vanderbilt.edu].
+For any questions prior to the full code release, please contact the author at [weixin.liu@vanderbilt.edu].
